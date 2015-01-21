@@ -1,0 +1,16 @@
+## [active] [4] High Level game engine design
+Ray expressed interest in this idea.
+It wasn't even on my mind that I knew enough about this to talk about it, haaha.
+He raised the idea after I mentioned working on my engine.
+I don't know if I really know enough to bring this into fruition.
+
+Like, lets see, what type of things could I talk about?
+
+- When to choose a contained client vs client-server architecture
+    - Benefits of each design
+- Do you have to run a "real-time" world simulation?
+    - The differences between say the requirements for a platformer vs a point and click adventure
+- Differences in graphical output requirements between 2d & 3d
+- Games loops
+- Handling user input
+- TODO
