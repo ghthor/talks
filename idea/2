@@ -1,0 +1,8 @@
+## [active] [2] Functional programming design using Go
+How you can apply FP designs using imperative languages.
+How these design look in execution.
+How beautiful I think they are.
+And also how hiding the magic under syntactic sugar, ala haskell, is the wrong approach.
+How much easier these designs are to be read and understood by someone with no FP knowledge.
+This is what haskell is doing
+It just hides some of the most important knowledge under syntactic suger.
